@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "combinatorial-optimization-practice"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^1.5.3"
+numpy = "^1.24.2"
+PuLP = "^2.7.0"
+jupyter = "^1.0.0"
+ortoolpy = "^0.4.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
