@@ -3,3 +3,4 @@ This is a repository for my personal practice of Combinatorial optimization.
 ## Refs
 - [組合せ最適化でチーム分けする](https://qiita.com/SaitoTsutomu/items/f4478dfbc3c1cf6425e3)
 - [組合せ最適化でチーム分けする（平均偏差最小化）](https://qiita.com/matsulib/items/898873b73d584c7dcb8b)
+- [組合せ最適化でチーム分けする（焼きなまし法）](https://qiita.com/matsulib/items/bd50af2e2bc1e48522cd)
